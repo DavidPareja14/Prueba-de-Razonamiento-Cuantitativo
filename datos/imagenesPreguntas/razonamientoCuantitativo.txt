@@ -1,0 +1,230 @@
+#-----------------------
+#Se muestra la información para todas las preguntas de la prueba de razonamiento cuantitativo.
+#-----------------------
+
+total.preguntas = 25
+
+pregunta1.pregunta = 1. RESPONDA LAS PREGUNTAS 1 A 5 DE ACUERDO CON LA INFORMACIÓN\n\nUn sismólogo afirma que en cualquier año era más probable que hubiese sismos de baja que de\nalta magnitud. Según el registro histórico, la relación que justifica la opinión del sismólogo es:
+pregunta1.rutaImagenInformacion = ./datos/imagenesInformacion/informacion1.png
+pregunta1.opcionA = A. A mayor magnitud, mayor cantidad de sismos.
+pregunta1.opcionB = B. A mayor magnitud, menor cantidad de sismos.
+pregunta1.opcionC = C. A mayor cantidad de sismos, menor magnitud de estos.
+pregunta1.opcionD = D. A mayor cantidad de sismos, mayor magnitud de estos.
+pregunta1.rutaImagenPregunta = 
+pregunta1.respuestaCorrecta = B
+
+pregunta2.pregunta = 2. A partir de los datos, una persona predice que en el 2011 se presentarán exactamente 173\nsismos de magnitud igual o superior a 6,0 grados.\n\nQue suceda lo que esta persona predice es
+pregunta2.rutaImagenInformacion = ./datos/imagenesInformacion/informacion1.png
+pregunta2.opcionA = A. imposible, pues el número de sismos, de cualquier magnitud, ha ido disminuyendo desde 2007.
+pregunta2.opcionB = B. poco probable, porque, de acuerdo con la tendencia, el número de sismos en el 2011 será mayor que 173.
+pregunta2.opcionC = C. incierto, pues a partir del número de sismos de cualquier magnitud presentado en el pasado no se puede predecir el número de sismos futuros.
+pregunta2.opcionD = D. seguro, pues la tendencia de los dos años anteriores a 2011 indica que se presentarán 151 sismos de magnitud entre 6,0 y 6,9; 21 de magnitud entre 7,0 y 7,9, y 1 de magnitud superior a 8,0.
+pregunta2.rutaImagenPregunta = 
+pregunta2.respuestaCorrecta = C
+
+pregunta3.pregunta = 3. ¿Cuál de los siguientes cocientes permite estimar la cantidad de sismos mensuales?
+pregunta3.rutaImagenInformacion = ./datos/imagenesInformacion/informacion1.png
+pregunta3.opcionA = A. Total de sismos sobre meses del año.
+pregunta3.opcionB = B. Total de sismos por año sobre meses del año.
+pregunta3.opcionC = C. Total de sismos por año sobre días del año.
+pregunta3.opcionD = D. Total de sismos sobre su magnitud.
+pregunta3.rutaImagenPregunta = 
+pregunta3.respuestaCorrecta = B
+
+pregunta4.pregunta = 4. El promedio anual de sismos en la primera década del siglo XXI fue 3.783. Los años con el número de sismos más cercano y más lejano al promedio son
+pregunta4.rutaImagenInformacion = ./datos/imagenesInformacion/informacion1.png
+pregunta4.opcionA = A. 2007 y 2010, respectivamente.
+pregunta4.opcionB = B. 2006 y 2005, respectivamente.
+pregunta4.opcionC = C. 2005 y 2002, respectivamente.
+pregunta4.opcionD = D. 2002 y 2008, respectivamente.
+pregunta4.rutaImagenPregunta = 
+pregunta4.respuestaCorrecta = C
+
+pregunta5.pregunta = 5. En la primera década del siglo XXI, la proporción de sismos de magnitud entre 8,0 y 8,9 es de, aproximadamente,
+pregunta5.rutaImagenInformacion = ./datos/imagenesInformacion/informacion1.png
+pregunta5.opcionA = A. 1 de cada 3.000 sismos.
+pregunta5.opcionB = B. 1 de cada 12 sismos.
+pregunta5.opcionC = C. 12 de cada 18.000 sismos.
+pregunta5.opcionD = D. 12 de cada 4.000 sismos.
+pregunta5.rutaImagenPregunta = 
+pregunta5.respuestaCorrecta = A
+
+pregunta6.pregunta = 6. RESPONDA LAS PREGUNTAS 6 Y 7 DE ACUERDO CON LA INFORMACIÓN\n\nPatricia está muy contenta, pues afirma que, de la forma en que su tía repartió el dinero de sus bienes, ella obtendrá más dinero que si la herencia se dividiera en partes iguales entre los familiares vivos de la tía según el esquema.\n\nLa afirmación de Patricia es
+pregunta6.rutaImagenInformacion = ./datos/imagenesInformacion/informacion2.png
+pregunta6.opcionA = A. incorrecta, pues de cualquiera de las dos formas los herederos reciben $32.000.000.
+pregunta6.opcionB = B. correcta, pues según el testamento la herencia se distribuye entre 6 personas; de la otra forma se debe repartir entre 8.
+pregunta6.opcionC = C. incorrecta, pues Patricia recibirá 10% de la herencia, que es menos que el 12,5% que recibiría con la otra distribución.
+pregunta6.opcionD = D. correcta, pues el dinero se divide solo entre ella y su hermano.
+pregunta6.rutaImagenPregunta = 
+pregunta6.respuestaCorrecta = C
+
+pregunta7.pregunta = 7. ¿Qué parte de la herencia le corresponde a Juan?
+pregunta7.rutaImagenInformacion = ./datos/imagenesInformacion/informacion2.png
+pregunta7.opcionA = A. La quinta parte.
+pregunta7.opcionB = B. La mitad.
+pregunta7.opcionC = C. La octava parte
+pregunta7.opcionD = D. La tercera parte.
+pregunta7.rutaImagenPregunta = 
+pregunta7.respuestaCorrecta = A
+
+pregunta8.pregunta = 8. RESPONDA LAS PREGUNTAS 8 Y 9 DE ACUERDO CON LA INFORMACIÓN\n\nCamilo quiere inscribirse a las clases de pilates ofrecidas por el instructor y escoger el total de sesiones mensual en la que el costo por sesión sea de menor precio. Camilo elige tomar 2 sesiones semanales, con esto, ¿logra Camilo cumplir su propósito de que el costo por sesión sea el de menor precio?
+pregunta8.rutaImagenInformacion = ./datos/imagenesInformacion/informacion3.png
+pregunta8.opcionA = A. No, pues el costo por sesión de menor precio lo obtiene si toma 4 sesiones por semana.
+pregunta8.opcionB = B. Sí, pues tomar 2 sesiones por semana tiene el menor costo mensual de todas las opciones.
+pregunta8.opcionC = C. No, pues se paga un menor precio por sesión si toma 3 sesiones por semana.
+pregunta8.opcionD = D. Sí, pues tomar menos sesiones garantiza pagar menos por cada una de ellas.
+pregunta8.rutaImagenPregunta = 
+pregunta8.respuestaCorrecta = A
+
+pregunta9.pregunta = 9. ¿Cuál de las siguientes afirmaciones es incorrecta?
+pregunta9.rutaImagenInformacion = ./datos/imagenesInformacion/informacion3.png
+pregunta9.opcionA = A. Hay más horas disponibles de 8 a.m. a 1 p.m., que de 1 p.m. a 7 p.m.
+pregunta9.opcionB = B. Todos los días hay 5 horas disponibles.
+pregunta9.opcionC = C. Hay más horas disponibles de jueves a sábado, que de lunes a miércoles.
+pregunta9.opcionD = D. El sábado de 12 m. a 7 p.m. no hay clases asignadas.
+pregunta9.rutaImagenPregunta = 
+pregunta9.respuestaCorrecta = B
+
+pregunta10.pregunta = 10. RESPONDA LAS PREGUNTAS 10 Y 11 DE ACUERDO CON LAINFORMACIÓN\n\nDurante el período 1996 – 2002, los años en los que se hizo mayor inversión en seguridad vial fueron
+pregunta10.rutaImagenInformacion = ./datos/imagenesInformacion/informacion4.png
+pregunta10.opcionA = A. 1997, 1998, 1999 y 2000.
+pregunta10.opcionB = B. 2000, 2001 y 2002.
+pregunta10.opcionC = C. 1997, 1998 y 1999.
+pregunta10.opcionD = D. 1996, 1997, 1998 y 1999.
+pregunta10.rutaImagenPregunta = 
+pregunta10.respuestaCorrecta = B
+
+pregunta11.pregunta = 11. La inversión en seguridad se realiza el 10 de enero de cada año. En enero 10 de 2002, un euro equivalía a 2.800 pesos colombianos, aproximadamente. Se proponen los siguientes procedimientos para hallar el valor de la inversión en seguridad en pesos colombianos: \n\nI. Convertir 194,39 millones de euros a pesos colombianos.\nII. Convertir 2.800 pesos colombianos a euros.\nIII. Multiplicar 194,39 por 2.800 y luego dividir entre el total de años.\n\n¿Cuál o cuáles de los procedimientos es correcto para hallar lo solicitado?
+pregunta11.rutaImagenInformacion = ./datos/imagenesInformacion/informacion4.png
+pregunta11.opcionA = A. I y III solamente.
+pregunta11.opcionB = B. I solamente.
+pregunta11.opcionC = C. II y III solamente.
+pregunta11.opcionD = D. II solamente.
+pregunta11.rutaImagenPregunta = 
+pregunta11.respuestaCorrecta = B
+
+pregunta12.pregunta = 12. RESPONDA LAS PREGUNTAS 12 Y 13 DE ACUERDO CON LA INFORMACIÓN\n\nSe realizó una campaña de reciclaje durante tres días en una unidad residencial, en la que se recogieron 2 toneladas diarias de papel y cartón; por tanto, se evitó la tala de 2 × 3 × 17 = 102 árboles adultos. \n\nSi esta campaña se efectuara durante 20 días en la misma unidad y se recolectara la misma cantidad se podrían ahorrar
+pregunta12.rutaImagenInformacion = ./datos/imagenesInformacion/informacion5.png
+pregunta12.opcionA = A. 680 litros de agua.
+pregunta12.opcionB = B. 5.600 litros de agua..
+pregunta12.opcionC = C. 300.000 litros de agua.
+pregunta12.opcionD = D. 2.000.000 litros de agua.
+pregunta12.rutaImagenPregunta = 
+pregunta12.respuestaCorrecta = D
+
+pregunta13.pregunta = 13. Una persona afirma:\n\n“Como al día se ahorran 140 litros de petróleo por cada tonelada de papel y cartón reciclado en la ciudad, durante un mes se ahorrarán exactamente 30 veces 140 litros de petróleo”.\n\nSu afirmación es
+pregunta13.rutaImagenInformacion = ./datos/imagenesInformacion/informacion5.png
+pregunta13.opcionA = A. correcta, porque el número 30 indica el número de días que tiene un mes.
+pregunta13.opcionB = B. incorrecta, porque debe tener en cuenta las 150 toneladas de papel y cartón reciclado por día.
+pregunta13.opcionC = C. correcta, porque tiene en cuenta que día tras día hay 140 litros más de petróleo ahorrado.
+pregunta13.opcionD = D. incorrecta, porque debe tener en cuenta las 25 toneladas de papel y cartón reciclado por día.
+pregunta13.rutaImagenPregunta = 
+pregunta13.respuestaCorrecta = B
+
+pregunta14.pregunta = 14. RESPONDA LAS PREGUNTAS 14 A 16 DE ACUERDO CON LA INFORMACIÓN\n\nLos resultados indican que el ave 5 tarda más alimentándose que desplazándose. Esto es correcto, puesto que el tiempo en alimentación excede al de desplazamiento en
+pregunta14.rutaImagenInformacion = ./datos/imagenesInformacion/informacion6.png
+pregunta14.opcionA = A. 20 minutos.
+pregunta14.opcionB = B. 25 minutos.
+pregunta14.opcionC = C. 33 minutos.
+pregunta14.opcionD = D. 45 minutos.
+pregunta14.rutaImagenPregunta = 
+pregunta14.respuestaCorrecta = B
+
+pregunta15.pregunta = 15. Al analizar los resultados, el científico afirma que la relación entre cada tiempo de las actividades del ave 1 y del ave 5 es 3:2.\n\nLa afirmación del científico es
+pregunta15.rutaImagenInformacion = ./datos/imagenesInformacion/informacion6.png
+pregunta15.opcionA = A. correcta, porque el tiempo invertido en las actividades 2, 5 y 6 por el ave 1 es igual al tiempo invertido en las actividades 4 y 7 por el ave 5.
+pregunta15.opcionB = B. incorrecta, porque el tiempo invertido en las actividades 3, 6 y 7 por el ave 1 es igual al tiempo invertido en las actividades 4, 6 y 7 por el ave 5.
+pregunta15.opcionC = C. correcta, porque para la actividad Comunicación la relación entre los tiempos está dada por 15/10 = 3/2
+pregunta15.opcionD = D. incorrecta, porque para la actividad Alimentación la relación entre los tiempos está dada por 30/45 = 3/2
+pregunta15.rutaImagenPregunta = 
+pregunta15.respuestaCorrecta = D
+
+pregunta16.pregunta = 16. El científico quiere identificar cuál de las aves presenta las características de la siguiente descripción:\n\n*    Tarda el doble del tiempo o más en alimentarse que en descansar.\n*    La defecación dura menos del 10% del tiempo total de las sesiones.\n\nEstas características corresponden al ave
+pregunta16.rutaImagenInformacion = ./datos/imagenesInformacion/informacion6.png
+pregunta16.opcionA = A. 1
+pregunta16.opcionB = B. 2
+pregunta16.opcionC = C. 3
+pregunta16.opcionD = D. 5
+pregunta16.rutaImagenPregunta = 
+pregunta16.respuestaCorrecta = B
+
+pregunta17.pregunta = 17. RESPONDA LAS PREGUNTAS 17 A 19 DE ACUERDO CON LA INFORMACIÓN\n\nUna pista marcada en un extremo con el número 24, en el extremo opuesto está marcada con el número
+pregunta17.rutaImagenInformacion = ./datos/imagenesInformacion/informacion7.png
+pregunta17.opcionA = A. 06
+pregunta17.opcionB = B. 18
+pregunta17.opcionC = C. 36
+pregunta17.opcionD = D. 42
+pregunta17.rutaImagenPregunta = 
+pregunta17.respuestaCorrecta = A
+
+pregunta18.pregunta = 18. Al piloto de un avión que está alineado para aterrizar en el extremo 24 se le pide que cambie su rumbo girando 30 grados a su derecha para que use una pista libre. El número que encuentra en la nueva pista es
+pregunta18.rutaImagenInformacion = ./datos/imagenesInformacion/informacion7.png
+pregunta18.opcionA = A. 06
+pregunta18.opcionB = B. 21
+pregunta18.opcionC = C. 27
+pregunta18.opcionD = D. 54
+pregunta18.rutaImagenPregunta = 
+pregunta18.respuestaCorrecta = B
+
+pregunta19.pregunta = 19. Un avión que despega en dirección al extremo 32, va hacia el
+pregunta19.rutaImagenInformacion = ./datos/imagenesInformacion/informacion7.png
+pregunta19.opcionA = A. sureste.
+pregunta19.opcionB = B. noreste.
+pregunta19.opcionC = C. suroeste.
+pregunta19.opcionD = D. noroeste.
+pregunta19.rutaImagenPregunta = 
+pregunta19.respuestaCorrecta = A
+
+pregunta20.pregunta = 20. RESPONDA LAS PREGUNTAS 20 A 23 DE ACUERDO CON LA INFORMACIÓN\n\nUn tanque almacena exactamente la cantidad de jabón líquido necesaria para envasar exactamente 50 unidades de cada tipo de contenido. Teniendo en cuenta que 1 Litro contiene 1.000 mL, ¿cuál es la capacidad del tanque?
+pregunta20.rutaImagenInformacion = ./datos/imagenesInformacion/informacion8.png
+pregunta20.opcionA = A. 15 litros.
+pregunta20.opcionB = B. 75 litros.
+pregunta20.opcionC = C. 1.500 litros.
+pregunta20.opcionD = D. 75.000 litros.
+pregunta20.rutaImagenPregunta = 
+pregunta20.respuestaCorrecta = B
+
+pregunta21.pregunta = 21. De acuerdo con la información de la tabla, si se conservara la relación entre el contenido y el precio por unidad, ¿cuál debería ser el precio de la presentación de jabón líquido con contenido de 1.800 mL?
+pregunta21.rutaImagenInformacion = ./datos/imagenesInformacion/informacion8.png
+pregunta21.opcionA = A. $15.300.
+pregunta21.opcionB = B. $18.000
+pregunta21.opcionC = C. $30.600
+pregunta21.opcionD = D. $31.660
+pregunta21.rutaImagenPregunta = 
+pregunta21.respuestaCorrecta = C
+
+pregunta22.pregunta = 22. La etiqueta del jabón debe especificar tres aspectos: presentación, contenido y aroma. ¿Cuántas etiquetas diferentes debe utilizar la fábrica?
+pregunta22.rutaImagenInformacion = ./datos/imagenesInformacion/informacion8.png
+pregunta22.opcionA = A. 2.
+pregunta22.opcionB = B. 6
+pregunta22.opcionC = C. 12
+pregunta22.opcionD = D. 18
+pregunta22.rutaImagenPregunta = 
+pregunta22.respuestaCorrecta = D
+
+pregunta23.pregunta = 23. La microempresa otorga incentivos a los vendedores cuyas ventas semanales sean superiores a $500.000. La tabla muestra los registros de ventas de tres vendedores durante una semana.\n\n¿A cuál o cuáles de los vendedores se debe dar el incentivo?
+pregunta23.rutaImagenInformacion = ./datos/imagenesInformacion/informacion8.png
+pregunta23.opcionA = A. I solamente.
+pregunta23.opcionB = B. III solamente.
+pregunta23.opcionC = C. I y II solamente.
+pregunta23.opcionD = D. I, II y III solamente.
+pregunta23.rutaImagenPregunta = ./datos/imagenesPreguntas/imagenPregunta23.png
+pregunta23.respuestaCorrecta = C
+
+pregunta24.pregunta = 24. Usualmente, las distancias en el espacio se miden en años luz. Un año luz corresponde a la distancia que recorre la luz en un año (aproximadamante 9,46 × 10^12 km). Un estudiante sabe que el diámetro de la Vía Láctea mide aproximadamente 10^21 m, y para determinar la cantidad de años luz a la que esto equivale usa la siguiente expresión:\n\n\n\nEl estudiante concluye que el diámetro es 106 millones de años luz. El anterior procedimiento es incorrecto, porque
+pregunta24.rutaImagenInformacion = 
+pregunta24.opcionA = A. el denominador de la fracción debe expresarse en potencias de diez.
+pregunta24.opcionB = B. no se tiene en cuenta la equivalencia de unidades entre las magnitudes involucradas.
+pregunta24.opcionC = C. para obtener el diámetro se debe determinar el producto entre ambas medidas relacionadas.
+pregunta24.opcionD = D. el resultado no se expresa en potencias de diez como los otros datos.
+pregunta24.rutaImagenPregunta = ./datos/imagenesPreguntas/imagenPregunta24.png
+pregunta24.respuestaCorrecta = B
+
+pregunta25.pregunta = 25. Para una fiesta infantil se tiene una fuente de chocolate con tres niveles, cuyos recipientes son cilíndricos, como lo muestra la figura. El tubo cilíndrico que los une permite que el chocolate suba desde el nivel más bajo hasta el más alto. Cuando el nivel superior se llena, el chocolate se desborda al nivel medio y, cuando este se llena, el chocolate pasa al nivel inferior.\n\nVer Información\n\nEl organizador de la fiesta quiere estimar cuál es la capacidad de la fuente, para lo cual mide la altura y el radio del recipiente en el nivel inferior.\n\nDe las medidas halladas por el organizador para estimar la capacidad total de la fuente, es verdadero afirmar que
+pregunta25.rutaImagenInformacion = 
+pregunta25.opcionA = A. no son suficientes, pues falta conocer el peso del chocolate y la resistencia que tiene el material de los recipientes.
+pregunta25.opcionB = B. son suficientes, pues si se llenan los otros recipientes, el chocolate se saldrá de la fuente cuando esta comience a operar.
+pregunta25.opcionC = C. no son suficientes, pues no toman en cuenta la capacidad de los otros recipientes y el chocolate del tubo de circulación.
+pregunta25.opcionD = D. son suficientes, pues el recipiente más bajo es el que recibe el chocolate que se vierte de los otros dos.
+pregunta25.rutaImagenPregunta = ./datos/imagenesPreguntas/imagenPregunta25.png
+pregunta25.respuestaCorrecta = C
